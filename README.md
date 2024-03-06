@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Marcos Onofre
 
-- 📚 Mobile Android
+- 📚 Estudante de Desenvolvimento Mobile Android
+- Final de 2023, comecei a estudar mais o desenvolvimento Android nativo usando a linguagem Java e tambem o Kotlin, criando aplicativos usando as tecnologias seguintes:
+- 🎯 Kotlin | Java | Android SDK | ViewGroups | Git | GitHub | APIs RESTful | Clean Architecture (MVVM) | Testes Unitários | Couroutines | LiveData | Jetpack Compose | Retrofit | Room Database | Orientação objetos | RecyclerView | Metodologia SCRUM
 - 📧 Contato: dev.marcosonofre@gmail.com
 
 ##
