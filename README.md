@@ -6,14 +6,6 @@
 
 ##
 
-<div>
-  <a href="https://github.com/marcosonofre1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosonofre1&show=reviews&show_icons=true&theme=tokyonight&incluide_all_commits==true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosonofre1&layout=compact&langs_count=16&theme=tokyonight"/>
-   </div>
-
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
   <img align="center" alt="Marcos-androidstd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
